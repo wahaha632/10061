@@ -4,7 +4,7 @@
 export UUID=3d6f4d4d-d80f-4e01-9cfc-6e095ccbd85d
 
 #请修改为自己设置的伪装站，不要带https://
-export ProxySite=www.overstock.com
+export ProxySite=www.baidu.com
 
 #端口，如无特殊需求请勿更改,如果要改请一并修改dockerfile中的端口
 export Port=8080
